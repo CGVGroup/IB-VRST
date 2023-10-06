@@ -33,6 +33,5 @@ Feel free to contact us: cgvg.dauin@polito.it
 
 ## License
 
-Experimental material and Unity project are licensed under
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+Experimental material and Unity project are licensed under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
