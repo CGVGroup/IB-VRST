@@ -5,7 +5,6 @@ The Influencer-Based Virtual Reality Stroop Test (IB-VRST) is an application tha
 ## Table of contents
 * [Download](#download)
 * [Install](#install)
-* [Citation](#citation)
 * [Acknowledgements](#acknowledgements)
 * [License](#license)
   
@@ -13,17 +12,9 @@ The Influencer-Based Virtual Reality Stroop Test (IB-VRST) is an application tha
 The application's executables are available in this repository's [release](https://github.com/CGVGroup/IB-VRST/releases) section. Download the main.zip file and inside you will find all the material needed to run the IB-VRST application.
 
 ## Install
-Once the relese file has been downloaded you can unzip it and inside you will find two folders: **ib-vrst-distractors** e **ib-vrst-social**. Each folder is a different application, the former is the IB-VRST distractor version whereas the former is the social (avatar based) one. Inside each of these folder you will find one .exe file which will be the main entry point to start the application. Both the applications require Steam VR to be up and running. For each application there is a configuration file which can be customized, details are as follows. 
+Once the release file has been downloaded, you can unzip it, and inside, you will find two folders: **ib-vrst-distractors** e **ib-vrst-social**. Each folder is a different application. The former is the IB-VRST distractor version, whereas the former is the social (avatar-based) one. You will find one .exe file in each of these folders, which will be the main entry point to start the application. Ensure Steam VR is up and running and run the .exe file. For each application, there is a configuration .txt file that can be customized. The applications found in the folders are currently ready with a configuration file corresponding to the one we used in our experiments, as featured in the published article. 
 
-### ib-vrst-distractors
-### ib-vrst-social
-
-## Citation
-
-Please cite this paper in your publications if it helps your research.
-
-    @article{
-    }
+To customize the configuration file for each application, refer to the instructions you can find in the _configuration_Template_Distractors.txt_ or _configuration_Template_Social.txt_ files, respectively available in the root folders _/ib-vrst-distractors_ and _/ib-vrst-social_
 
 ## Acknowledgements
 
