@@ -1,10 +1,11 @@
 ![alt text](https://github.com/CGVGroup/IB-VRST/blob/main/imgs/img_NewFirstPerson_cropped.png)
 # IB-VRST
-The Influencer-Based Virtual Reality Stroop Test (IB-VRST) is an application that allows users to perform an immersive Stroop test while exposed to various virtual influencers. These influencers are categorized as task-related and non-task-related distractors, and elements of social presence implemented through competitive and collaborative virtual avatars. The application was validated through a user study involving a total of 102 volunteers who participated in two experiments where we analyzed the effects of these influencers on performance and stress levels. The results of the study are accessible [here]().
+The Influencer-Based Virtual Reality Stroop Test (IB-VRST) is an application that allows users to perform an immersive Stroop test while exposed to various virtual influencers. These influencers are categorized as task-related and non-task-related distractors, and elements of social presence implemented through competitive and collaborative virtual avatars. The application was validated through a user study involving a total of 102 volunteers who participated in two experiments where we analyzed the effects of these influencers on performance and stress levels. The results of the study are accessible [here](https://ieeexplore.ieee.org/document/10285114).
 
 ## Table of contents
 * [Download](#download)
 * [Install](#install)
+* [Citation](#citation)
 * [Acknowledgements](#acknowledgements)
 * [License](#license)
   
@@ -15,6 +16,22 @@ The application's executables are available in this repository's [release](https
 Once the release file has been downloaded, you can unzip it, and inside, you will find two folders: **ib-vrst-distractors** e **ib-vrst-social**. Each folder is a different application. The former is the IB-VRST distractor version, whereas the former is the social (avatar-based) one. You will find one .exe file in each of these folders, which will be the main entry point to start the application. Ensure Steam VR is up and running and run the .exe file. For each application, there is a configuration .txt file that can be customized. The applications found in the folders are currently ready with a configuration file corresponding to the one we used in our experiments, as featured in the published article. 
 
 To customize the configuration file for each application, refer to the instructions you can find in the _configuration_Template_Distractors.txt_ or _configuration_Template_Social.txt_ files, respectively available in the root folders _/ib-vrst-distractors_ and _/ib-vrst-social_
+
+## Citation
+
+Please cite this paper in your publications if it helps your research.
+
+    @article{battegazzorre2023influencer,
+    title={Influencer-based virtual reality stroop task},
+    author={Battegazzorre, Edoardo and Strada, Francesco and De Francesco, Lucia and Mazza, Alessandro and Dal Monte, Olga and Bottino, Andrea},
+    journal={IEEE Access},
+    volume={11},
+    pages={126420--126435},
+    year={2023},
+    publisher={IEEE}
+    doi = {10.1109/ACCESS.2023.3324554}}
+
+IB-VRST has been detailed in the open access contribution "Influencer-Based Virtual Reality Stroop Task" available [here](https://ieeexplore.ieee.org/document/10285114).
 
 ## Acknowledgements
 
